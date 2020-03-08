@@ -3,7 +3,7 @@ package com.freemeng.algorithm.easy;
 import static java.lang.StrictMath.abs;
 
 /**
- * @Author: zhenyang
+ * @Author: zmdstr
  * @Date: 2019/4/20 9:38 PM
  * @Description
  */
